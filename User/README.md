@@ -18,7 +18,7 @@ A simple RESTful API built using Node.js and Express to manage a list of users. 
 
 ## Sample User Object
 
-```json
+```
  [
   {
     id: "1",
