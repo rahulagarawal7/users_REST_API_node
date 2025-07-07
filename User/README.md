@@ -29,11 +29,11 @@ A simple RESTful API built using Node.js and Express to manage a list of users. 
 
 ## Project Structure
 .
-├── data.js                // In-memory user list
+├── data.js                
 ├── middleware/
-│   ├── logger.js          // Request logging middleware
-│   └── validator.js       // POST/PUT request body validation
-├── server.js              // Main Express application
+│   ├── logger.js          
+│   └── validator.js       
+├── server.js              
 ├── package.json
 ├── package-lock.json
 
