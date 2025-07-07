@@ -19,12 +19,20 @@ A simple RESTful API built using Node.js and Express to manage a list of users. 
 ## Sample User Object
 
 ```json
-{
-  "id": "1",
-  "firstName": "Anshika",
-  "lastName": "Agarwal",
-  "hobby": "Teaching"
-}
+ [
+  {
+    id: "1",
+    firstName: "Anshika",
+    lastName: "Agarwal",
+    hobby: "Teaching",
+  },
+  {
+    id: "2",
+    firstName: "Rahul",
+    lastName: "Agarwal",
+    hobby: "Coding",
+  },
+];
 ```
 
 ## Project Structure
